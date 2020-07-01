@@ -42,4 +42,4 @@ async def addquote(ctx, body: str, accredited: str):
     else:
         await ctx.send('Quote already exists, dummy!')
 
-bot.run('NzI3NjY5MjkwMzQ5ODg3NTU2.XvwRVg.xCPLnP_bNdxi3sB81LwbhYj-8qE')
+bot.run('token')
